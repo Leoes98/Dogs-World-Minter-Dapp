@@ -320,6 +320,8 @@ section {
   position: absolute;
   top: 90px;
   left: 5rem;
+  width: 100%;
+  /*z-index: -1; */
 }
 
 .splide__slide {
