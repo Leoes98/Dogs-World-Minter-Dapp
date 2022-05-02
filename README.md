@@ -19,9 +19,10 @@ There's also a simple [web app](https://www.netlify.com/) that mints the NFT col
 - Most of the NFT infrastructure uses [NFTPort](https://nftport.xyz)
 - Web app deployed on [netlify](https://www.netlify.com/)
 
-# LINKS
+## LINKS
 
 🌟 [Web app URL](https://spiffy-mermaid-49dc45.netlify.app/)
+
 [Polygon scan](https://polygonscan.com/tx/0x945f0011d54944f5bac6133e29a68fb1db74241e6bb6629d83617324b7b5a591)
 
 ## RESOURCES
