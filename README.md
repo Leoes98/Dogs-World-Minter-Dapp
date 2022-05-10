@@ -9,7 +9,7 @@
 ## DESCRIPTION
 
 This is my first NFT collection project. I've created a collection of Cool Dogs and deployed it to Polygon mainnet.
-There's also a simple [web app](https://www.netlify.com/) that mints the NFT collection.
+There's also a simple [web app](https://spiffy-mermaid-49dc45.netlify.app/) that mints the NFT collection.
 
 ### Steps
 
